@@ -3,7 +3,7 @@ Javascript Racing with High Scores in the BlockChain
 
 An Outrun-style pseudo-3d racing game in HTML5 and Javascript. Your Lap and Race times are saved in the BlockChain. This game is a decentralized application (Dapp) based on the Asch sidechain Dapp SDK now. A Dapp that communicate with the Asch mainchain for demostration purposes only.
 
-[[https://github.com/bassjobsen/javascript-racer/blob/master/images/game.png|alt=game screen]]
+![Game Screen](https://github.com/bassjobsen/javascript-racer/blob/master/images/game.png)
 
 How to install
 ==============
