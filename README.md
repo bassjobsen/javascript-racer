@@ -1,59 +1,41 @@
-Javascript Pseudo 3D Racer
-==========================
+Javascript Racing with High Scores in the BlockChain
+====================================================
 
-An Outrun-style pseudo-3d racing game in HTML5 and Javascript
+An Outrun-style pseudo-3d racing game in HTML5 and Javascript. Your Lap and Race times are saved in the BlockChain. This game is a decentralized application (Dapp) based on the Asch sidechain Dapp SDK now. A Dapp that communicate with the Asch mainchain for demostration purposes only.
 
- * [play the game](http://codeincomplete.com/projects/racer/v4.final.html)
- * view the [source](https://github.com/jakesgordon/javascript-racer)
- * read about [how it works](http://codeincomplete.com/posts/2012/6/22/javascript_racer/)
+[[https://github.com/bassjobsen/javascript-racer/blob/master/images/game.png|alt=game screen]]
 
-Incrementally built up in 4 parts:
+How to install
+==============
 
- * play the [straight road demo](http://codeincomplete.com/projects/racer/v1.straight.html)
- * play the [curves demo](http://codeincomplete.com/projects/racer/v2.curves.html)
- * play the [hills demo](http://codeincomplete.com/projects/racer/v3.hills.html)
- * play the [final version](http://codeincomplete.com/projects/racer/v4.final.html)
+## Install Asch first
 
-With detailed descriptions of how each part works:
+```
+# clone asch
+git clone https://github.com/aschplatform/asch.git asch && cd asch && npm install && cd ..
+```
 
- * read more about [v1 - straight roads](http://codeincomplete.com/posts/2012/6/23/javascript_racer_v1_straight)
- * read more about [v2 - curves](http://codeincomplete.com/posts/2012/6/24/javascript_racer_v2_curves/)
- * read more about [v3 - hills](http://codeincomplete.com/posts/2012/6/26/javascript_racer_v3_hills/)
- * read more about v4 - final (coming soon)
+## Install the source code
+```
+git clone https://github.com/bassjobsen/javascript-racer.git
+```
+After that navigate to the new `javascript-racer` folder and follow the instruction at [Dapp Development Tutorial 1: Asch Dapp Hello World](https://github.com/AschPlatform/asch-docs/blob/master/dapp/hello_world/en.md). Or simply run [asch-redeploy](https://github.com/AschPlatform/asch-redeploy):
 
-A note on performance
-=====================
+```
+> sudo npm -g install asch-redeploy
+> cd asch-test-dapp
+> asch-redeploy
+```
 
-The performance of this game is **very** machine/browser dependent. It works quite well in modern
-browsers, especially those with GPU canvas acceleration, but a bad graphics driver can kill it stone
-dead. So your mileage may vary. There are controls provided to change the rendering resolution
-and the draw distance to scale to fit your machine.
+DAPP FUTURE
+===========
+ * create a new game asset
+ * let people win assets when they got a new high score (overall, weekly and daily based)
+ * ...
 
-Currently supported browsers include:
 
- * Firefox (v12+) works great, 60fps at high res - Nice!
- * Chrome (v19+) works great, 60fps at high res... provided you dont have a bad GPU driver
- * IE9 - ok, 30fps at medium res... not great, but at least it works
-
-The current state of mobile browser performance is pretty dismal. Dont expect this to be playable on
-any mobile device.
-
->> _NOTE: I havent actually spent anytime optimizing for performance yet. So it might be possible to
-   make it play well on older browsers, but that's not really what this project is about._
-
-A note on code structure
-========================
-
-This project happens to be implemented in javascript (because its easy for prototyping) but
-is not intended to demonstrate javascript techniques or best practices. In fact, in order to
-keep it simple to understand it embeds the javascript for each example directly in the HTML
-page (horror!) and, even worse, uses global variables and functions (OMG!).
-
-If I was building a real game I would have much more structure and organization to the
-code, but since its just a racing game tech demo, I have elected to [KISS](http://en.wikipedia.org/wiki/KISS_principle).
-
-FUTURE
-======
+GAME FUTURE
+===========
 
 It's quite astounding what it takes to actually [finish](http://codeincomplete.com/posts/2011/9/21/defining_finished/)
 a game, even a simple one. And this is not a project that I plan on polishing into a finished state. It should
@@ -89,6 +71,18 @@ If we were to try to turn it into a real game we would have to consider:
  * a whole lot of gameplay tuning
  * ...
  * ...
+
+A note of [Jake Gordon](https://github.com/jakesgordon) on code structure of the game
+=====================================================================================
+
+This project happens to be implemented in javascript (because its easy for prototyping) but
+is not intended to demonstrate javascript techniques or best practices. In fact, in order to
+keep it simple to understand it embeds the javascript for each example directly in the HTML
+page (horror!) and, even worse, uses global variables and functions (OMG!).
+
+If I was building a real game I would have much more structure and organization to the
+code, but since its just a racing game tech demo, I have elected to [KISS](http://en.wikipedia.org/wiki/KISS_principle).
+
 
 Related Links
 =============

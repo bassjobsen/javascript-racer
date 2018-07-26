@@ -1,0 +1,317 @@
+{"message":"starting asch-redeploy...","level":"verbose"}
+{"message":"NODE_ENV: undefined","level":"verbose"}
+{"meta":"green.inverse","level":"info","message":"Check folder structure in /home/bass/testomgeving/javascript-racer"}
+{"meta":"green.underline","level":"info","message":"contract/ ✓"}
+{"meta":"green.underline","level":"info","message":"interface/ ✓"}
+{"meta":"green.underline","level":"info","message":"model/ ✓"}
+{"meta":"green.underline","level":"info","message":"public/ ✓"}
+{"meta":"green.underline","level":"info","message":"init.js file ✓"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"waiting for 7000ms","level":"verbose"}
+{"message":"starting to orchestrate...","level":"verbose"}
+{"meta":"white.inverse","level":"info","message":"files are watched in userDevDir: /home/bass/testomgeving/javascript-racer"}
+{"meta":"white.underline","level":"info","message":"interface/**.js"}
+{"meta":"white.underline","level":"info","message":"model/**.js"}
+{"meta":"white.underline","level":"info","message":"contract/**.js"}
+{"meta":"white.underline","level":"info","message":"init.js"}
+{"message":"register dapp...","level":"info"}
+{"message":"finished watching files...","level":"info"}
+{"meta":"green","level":"info","message":"check balance..."}
+{"message":"in sendMoney()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"someone manual strong movie roof episode eight spatial brown soldier soup motor\"","level":"verbose"}
+{"message":"in hasGenesisAccountEnoughMoney()","level":"verbose"}
+{"message":"has genesisAccount a balance greater 50000?","level":"verbose"}
+{"message":"in saveGenesisAccountData()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"sentence weasel match weather apple onion release keen lens deal fruit matrix\"","level":"verbose"}
+{"message":"in hasDappAccountEnoughMoney()","level":"verbose"}
+{"message":"has dappAccount a balance greater 1000?","level":"verbose"}
+{"message":"enough money on account. No transfer needed. Balance is 10298.4","level":"verbose"}
+{"meta":"green","level":"info","message":"starting to register Dapp..."}
+{"message":"dapp: {\n  \"name\": \"test-yICzXDVvtQYA\",\n  \"link\": \"https://test-EPsuhAloBgcN.zip\",\n  \"category\": 1,\n  \"description\": \"A hello world demo for asch dapp\",\n  \"tags\": \"asch,dapp,demo\",\n  \"icon\": \"http://o7dyh3w0x.bkt.clouddn.com/hello.png\",\n  \"type\": 0,\n  \"delegates\": [\n    \"db18d5799944030f76b6ce0879b1ca4b0c2c1cee51f53ce9b43f78259950c2fd\",\n    \"590e28d2964b0aa4d7c7b98faee4676d467606c6761f7f41f99c52bb4813b5e4\",\n    \"bfe511158d674c3a1e21111223a49770bee93611d998e88a5d2ea3145de2b68b\",\n    \"7bbf62931cf3c596591a580212631aff51d6bc0577c54769953caadb23f6ab00\",\n    \"452df9213aedb3b9fed6db3e2ea9f49d3db226e2dac01828bc3dcd73b7a953b4\"\n  ],\n  \"unlockDelegates\": 3\n}","level":"info"}
+{"meta":"green.inverse","level":"info","message":"DAPP registered, DappId: b0f7a64d5b30d36e1781faab0869bf77bb3b4396bbb307c8155a1f3bbb43dc9b"}
+{"meta":"blue.inverse","level":"info","message":"dappId \"b0f7a64d5b30d36e1781faab0869bf77bb3b4396bbb307c8155a1f3bbb43dc9b\" successfully added to \"../asch/config.json\""}
+{"message":"wait for: 10000","level":"verbose"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-Server for restart"}
+{"meta":"inverse.blue","level":"warn","message":"sending SIGTERM signal to child process"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-server"}
+{"meta":"inverse.blue","level":"info","message":"asch-node exited with code: \"1\""}
+{"message":"asch-node terminated with code 1","level":"warn"}
+{"meta":"green.inverse","level":"info","message":"starting asch node"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"DAPP refuel with 500 XAS, transactionId: \"f54ba4c33089e5cf43c3b98e4bb37b8d6963802113ae3ec62a0976051da1a2c5\"","level":"info"}
+{"message":"sleep for 3000ms","level":"verbose"}
+{"message":"waiting for file changes...","level":"info"}
+{"meta":"underline.white","level":"info","message":"change model/laptime.js"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"finished watching files...","level":"info"}
+{"meta":"green","level":"info","message":"check balance..."}
+{"message":"in sendMoney()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"someone manual strong movie roof episode eight spatial brown soldier soup motor\"","level":"verbose"}
+{"message":"in hasGenesisAccountEnoughMoney()","level":"verbose"}
+{"message":"has genesisAccount a balance greater 50000?","level":"verbose"}
+{"message":"in saveGenesisAccountData()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"sentence weasel match weather apple onion release keen lens deal fruit matrix\"","level":"verbose"}
+{"message":"in hasDappAccountEnoughMoney()","level":"verbose"}
+{"message":"has dappAccount a balance greater 1000?","level":"verbose"}
+{"message":"enough money on account. No transfer needed. Balance is 9698.3","level":"verbose"}
+{"meta":"green","level":"info","message":"starting to register Dapp..."}
+{"message":"dapp: {\n  \"name\": \"test-boZdDIUctUub\",\n  \"link\": \"https://test-OHjTthUYYwBF.zip\",\n  \"category\": 1,\n  \"description\": \"A hello world demo for asch dapp\",\n  \"tags\": \"asch,dapp,demo\",\n  \"icon\": \"http://o7dyh3w0x.bkt.clouddn.com/hello.png\",\n  \"type\": 0,\n  \"delegates\": [\n    \"db18d5799944030f76b6ce0879b1ca4b0c2c1cee51f53ce9b43f78259950c2fd\",\n    \"590e28d2964b0aa4d7c7b98faee4676d467606c6761f7f41f99c52bb4813b5e4\",\n    \"bfe511158d674c3a1e21111223a49770bee93611d998e88a5d2ea3145de2b68b\",\n    \"7bbf62931cf3c596591a580212631aff51d6bc0577c54769953caadb23f6ab00\",\n    \"452df9213aedb3b9fed6db3e2ea9f49d3db226e2dac01828bc3dcd73b7a953b4\"\n  ],\n  \"unlockDelegates\": 3\n}","level":"info"}
+{"meta":"green.inverse","level":"info","message":"DAPP registered, DappId: 8a1e9ee1736163dd1659fdc01811a0dfea8a0ac7dec901025ea8389baa4aab41"}
+{"meta":"blue.inverse","level":"info","message":"dappId \"8a1e9ee1736163dd1659fdc01811a0dfea8a0ac7dec901025ea8389baa4aab41\" successfully added to \"../asch/config.json\""}
+{"message":"wait for: 10000","level":"verbose"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-Server for restart"}
+{"meta":"inverse.blue","level":"warn","message":"sending SIGTERM signal to child process"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-server"}
+{"meta":"inverse.blue","level":"info","message":"asch-node exited with code: \"1\""}
+{"message":"asch-node terminated with code 1","level":"warn"}
+{"meta":"green.inverse","level":"info","message":"starting asch node"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"DAPP refuel with 500 XAS, transactionId: \"34638a9cd0b5be690a41a6cddb1140dceaf65b15643745d213c42ac94b28681b\"","level":"info"}
+{"message":"sleep for 3000ms","level":"verbose"}
+{"message":"waiting for file changes...","level":"info"}
+{"meta":"underline.white","level":"info","message":"change model/laptime.js"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"finished watching files...","level":"info"}
+{"meta":"green","level":"info","message":"check balance..."}
+{"message":"in sendMoney()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"someone manual strong movie roof episode eight spatial brown soldier soup motor\"","level":"verbose"}
+{"message":"in hasGenesisAccountEnoughMoney()","level":"verbose"}
+{"message":"has genesisAccount a balance greater 50000?","level":"verbose"}
+{"message":"in saveGenesisAccountData()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"sentence weasel match weather apple onion release keen lens deal fruit matrix\"","level":"verbose"}
+{"message":"in hasDappAccountEnoughMoney()","level":"verbose"}
+{"message":"has dappAccount a balance greater 1000?","level":"verbose"}
+{"message":"enough money on account. No transfer needed. Balance is 9098.2","level":"verbose"}
+{"meta":"green","level":"info","message":"starting to register Dapp..."}
+{"message":"dapp: {\n  \"name\": \"test-eXJcECsiYrwN\",\n  \"link\": \"https://test-AXerOAtQPFcp.zip\",\n  \"category\": 1,\n  \"description\": \"A hello world demo for asch dapp\",\n  \"tags\": \"asch,dapp,demo\",\n  \"icon\": \"http://o7dyh3w0x.bkt.clouddn.com/hello.png\",\n  \"type\": 0,\n  \"delegates\": [\n    \"db18d5799944030f76b6ce0879b1ca4b0c2c1cee51f53ce9b43f78259950c2fd\",\n    \"590e28d2964b0aa4d7c7b98faee4676d467606c6761f7f41f99c52bb4813b5e4\",\n    \"bfe511158d674c3a1e21111223a49770bee93611d998e88a5d2ea3145de2b68b\",\n    \"7bbf62931cf3c596591a580212631aff51d6bc0577c54769953caadb23f6ab00\",\n    \"452df9213aedb3b9fed6db3e2ea9f49d3db226e2dac01828bc3dcd73b7a953b4\"\n  ],\n  \"unlockDelegates\": 3\n}","level":"info"}
+{"meta":"green.inverse","level":"info","message":"DAPP registered, DappId: 17879f1a7498e893ba4fb80556dd89be7265b6db9cd939d0236be70e0ddbd418"}
+{"meta":"blue.inverse","level":"info","message":"dappId \"17879f1a7498e893ba4fb80556dd89be7265b6db9cd939d0236be70e0ddbd418\" successfully added to \"../asch/config.json\""}
+{"message":"wait for: 10000","level":"verbose"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-Server for restart"}
+{"meta":"inverse.blue","level":"warn","message":"sending SIGTERM signal to child process"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-server"}
+{"meta":"inverse.blue","level":"info","message":"asch-node exited with code: \"1\""}
+{"message":"asch-node terminated with code 1","level":"warn"}
+{"meta":"green.inverse","level":"info","message":"starting asch node"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"DAPP refuel with 500 XAS, transactionId: \"13122b202cf9ad4abba7a5553e9744faaa9bd2b314f96d21a398f8936b54a642\"","level":"info"}
+{"message":"sleep for 3000ms","level":"verbose"}
+{"message":"waiting for file changes...","level":"info"}
+{"meta":"inverse","level":"warn","message":"SIGTERM"}
+{"message":"starting asch-redeploy...","level":"verbose"}
+{"message":"NODE_ENV: undefined","level":"verbose"}
+{"meta":"green.inverse","level":"info","message":"Check folder structure in /home/bass/testomgeving/javascript-racer"}
+{"meta":"green.underline","level":"info","message":"contract/ ✓"}
+{"meta":"green.underline","level":"info","message":"interface/ ✓"}
+{"meta":"green.underline","level":"info","message":"model/ ✓"}
+{"meta":"green.underline","level":"info","message":"public/ ✓"}
+{"meta":"green.underline","level":"info","message":"init.js file ✓"}
+{"message":"port_in_use: port 4096 is is already in use. Do you have a asch-node already running?","level":"error"}
+{"message":"Error: port_in_use: port 4096 is is already in use. Do you have a asch-node already running?\n    at isPortAvailable.then (/usr/local/lib/node_modules/asch-redeploy/src/startup/checkPort.js:10:17)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","level":"error"}
+{"meta":"blue.inverse","level":"info","message":"SIGINT send"}
+{"message":"starting asch-redeploy...","level":"verbose"}
+{"message":"NODE_ENV: undefined","level":"verbose"}
+{"meta":"green.inverse","level":"info","message":"Check folder structure in /home/bass/testomgeving/javascript-racer"}
+{"meta":"green.underline","level":"info","message":"contract/ ✓"}
+{"meta":"green.underline","level":"info","message":"interface/ ✓"}
+{"meta":"green.underline","level":"info","message":"model/ ✓"}
+{"meta":"green.underline","level":"info","message":"public/ ✓"}
+{"meta":"green.underline","level":"info","message":"init.js file ✓"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"waiting for 7000ms","level":"verbose"}
+{"message":"starting to orchestrate...","level":"verbose"}
+{"meta":"white.inverse","level":"info","message":"files are watched in userDevDir: /home/bass/testomgeving/javascript-racer"}
+{"meta":"white.underline","level":"info","message":"interface/**.js"}
+{"meta":"white.underline","level":"info","message":"model/**.js"}
+{"meta":"white.underline","level":"info","message":"contract/**.js"}
+{"meta":"white.underline","level":"info","message":"init.js"}
+{"message":"register dapp...","level":"info"}
+{"message":"finished watching files...","level":"info"}
+{"meta":"green","level":"info","message":"check balance..."}
+{"message":"in sendMoney()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"someone manual strong movie roof episode eight spatial brown soldier soup motor\"","level":"verbose"}
+{"message":"in hasGenesisAccountEnoughMoney()","level":"verbose"}
+{"message":"has genesisAccount a balance greater 50000?","level":"verbose"}
+{"message":"in saveGenesisAccountData()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"sentence weasel match weather apple onion release keen lens deal fruit matrix\"","level":"verbose"}
+{"message":"in hasDappAccountEnoughMoney()","level":"verbose"}
+{"message":"has dappAccount a balance greater 1000?","level":"verbose"}
+{"message":"enough money on account. No transfer needed. Balance is 8498.1","level":"verbose"}
+{"meta":"green","level":"info","message":"starting to register Dapp..."}
+{"message":"dapp: {\n  \"name\": \"test-yEWWWrebBrbW\",\n  \"link\": \"https://test-rQCDXZqCkInn.zip\",\n  \"category\": 1,\n  \"description\": \"A hello world demo for asch dapp\",\n  \"tags\": \"asch,dapp,demo\",\n  \"icon\": \"http://o7dyh3w0x.bkt.clouddn.com/hello.png\",\n  \"type\": 0,\n  \"delegates\": [\n    \"db18d5799944030f76b6ce0879b1ca4b0c2c1cee51f53ce9b43f78259950c2fd\",\n    \"590e28d2964b0aa4d7c7b98faee4676d467606c6761f7f41f99c52bb4813b5e4\",\n    \"bfe511158d674c3a1e21111223a49770bee93611d998e88a5d2ea3145de2b68b\",\n    \"7bbf62931cf3c596591a580212631aff51d6bc0577c54769953caadb23f6ab00\",\n    \"452df9213aedb3b9fed6db3e2ea9f49d3db226e2dac01828bc3dcd73b7a953b4\"\n  ],\n  \"unlockDelegates\": 3\n}","level":"info"}
+{"meta":"green.inverse","level":"info","message":"DAPP registered, DappId: b9d39ec6915f6b33793a7047d4d2bb5b5841b54e6d001521ac68d17743f5c09d"}
+{"meta":"blue.inverse","level":"info","message":"dappId \"b9d39ec6915f6b33793a7047d4d2bb5b5841b54e6d001521ac68d17743f5c09d\" successfully added to \"../asch/config.json\""}
+{"message":"wait for: 10000","level":"verbose"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-Server for restart"}
+{"meta":"inverse.blue","level":"warn","message":"sending SIGTERM signal to child process"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-server"}
+{"meta":"inverse.blue","level":"info","message":"asch-node exited with code: \"1\""}
+{"message":"asch-node terminated with code 1","level":"warn"}
+{"meta":"green.inverse","level":"info","message":"starting asch node"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"DAPP refuel with 500 XAS, transactionId: \"163840a9fedb60f74e74c37292bde55b01fd0647912afe230ca79d4e50ad6f10\"","level":"info"}
+{"message":"sleep for 3000ms","level":"verbose"}
+{"message":"waiting for file changes...","level":"info"}
+{"meta":"underline.white","level":"info","message":"change interface/racetime.js"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"waiting for 10 seconds after the last change...","level":"info"}
+{"message":"finished watching files...","level":"info"}
+{"meta":"green","level":"info","message":"check balance..."}
+{"message":"in sendMoney()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"someone manual strong movie roof episode eight spatial brown soldier soup motor\"","level":"verbose"}
+{"message":"in hasGenesisAccountEnoughMoney()","level":"verbose"}
+{"message":"has genesisAccount a balance greater 50000?","level":"verbose"}
+{"message":"in saveGenesisAccountData()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"sentence weasel match weather apple onion release keen lens deal fruit matrix\"","level":"verbose"}
+{"message":"in hasDappAccountEnoughMoney()","level":"verbose"}
+{"message":"has dappAccount a balance greater 1000?","level":"verbose"}
+{"message":"enough money on account. No transfer needed. Balance is 7898","level":"verbose"}
+{"meta":"green","level":"info","message":"starting to register Dapp..."}
+{"message":"dapp: {\n  \"name\": \"test-tvGVmNEYSBTD\",\n  \"link\": \"https://test-hAmYRBOtOiBH.zip\",\n  \"category\": 1,\n  \"description\": \"A hello world demo for asch dapp\",\n  \"tags\": \"asch,dapp,demo\",\n  \"icon\": \"http://o7dyh3w0x.bkt.clouddn.com/hello.png\",\n  \"type\": 0,\n  \"delegates\": [\n    \"db18d5799944030f76b6ce0879b1ca4b0c2c1cee51f53ce9b43f78259950c2fd\",\n    \"590e28d2964b0aa4d7c7b98faee4676d467606c6761f7f41f99c52bb4813b5e4\",\n    \"bfe511158d674c3a1e21111223a49770bee93611d998e88a5d2ea3145de2b68b\",\n    \"7bbf62931cf3c596591a580212631aff51d6bc0577c54769953caadb23f6ab00\",\n    \"452df9213aedb3b9fed6db3e2ea9f49d3db226e2dac01828bc3dcd73b7a953b4\"\n  ],\n  \"unlockDelegates\": 3\n}","level":"info"}
+{"meta":"green.inverse","level":"info","message":"DAPP registered, DappId: b6bbbc508a8cffdf16f3af57a5e97f7f130eebd1c1819f650cbce066f9f9372f"}
+{"meta":"blue.inverse","level":"info","message":"dappId \"b6bbbc508a8cffdf16f3af57a5e97f7f130eebd1c1819f650cbce066f9f9372f\" successfully added to \"../asch/config.json\""}
+{"message":"wait for: 10000","level":"verbose"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-Server for restart"}
+{"meta":"inverse.blue","level":"warn","message":"sending SIGTERM signal to child process"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-server"}
+{"meta":"inverse.blue","level":"info","message":"asch-node exited with code: \"1\""}
+{"message":"asch-node terminated with code 1","level":"warn"}
+{"meta":"green.inverse","level":"info","message":"starting asch node"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"error in worklflow.js occured","level":"verbose"}
+{"message":"ERROR OCCURED","level":"error"}
+{"message":"throw in conductor.js line 62","level":"verbose"}
+{"message":"connect ECONNREFUSED 127.0.0.1:4096","level":"error"}
+{"message":"Error: connect ECONNREFUSED 127.0.0.1:4096\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1198:14)","level":"error"}
+{"meta":"blue.inverse","level":"info","message":"SIGINT send"}
+{"message":"starting asch-redeploy...","level":"verbose"}
+{"message":"NODE_ENV: undefined","level":"verbose"}
+{"meta":"green.inverse","level":"info","message":"Check folder structure in /home/bass/testomgeving/javascript-racer"}
+{"meta":"green.underline","level":"info","message":"contract/ ✓"}
+{"meta":"green.underline","level":"info","message":"interface/ ✓"}
+{"meta":"green.underline","level":"info","message":"model/ ✓"}
+{"meta":"green.underline","level":"info","message":"public/ ✓"}
+{"meta":"green.underline","level":"info","message":"init.js file ✓"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"waiting for 7000ms","level":"verbose"}
+{"message":"starting to orchestrate...","level":"verbose"}
+{"meta":"white.inverse","level":"info","message":"files are watched in userDevDir: /home/bass/testomgeving/javascript-racer"}
+{"meta":"white.underline","level":"info","message":"interface/**.js"}
+{"meta":"white.underline","level":"info","message":"model/**.js"}
+{"meta":"white.underline","level":"info","message":"contract/**.js"}
+{"meta":"white.underline","level":"info","message":"init.js"}
+{"message":"register dapp...","level":"info"}
+{"message":"finished watching files...","level":"info"}
+{"meta":"green","level":"info","message":"check balance..."}
+{"message":"in sendMoney()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"someone manual strong movie roof episode eight spatial brown soldier soup motor\"","level":"verbose"}
+{"message":"in hasGenesisAccountEnoughMoney()","level":"verbose"}
+{"message":"has genesisAccount a balance greater 50000?","level":"verbose"}
+{"message":"in saveGenesisAccountData()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"sentence weasel match weather apple onion release keen lens deal fruit matrix\"","level":"verbose"}
+{"message":"in hasDappAccountEnoughMoney()","level":"verbose"}
+{"message":"has dappAccount a balance greater 1000?","level":"verbose"}
+{"message":"enough money on account. No transfer needed. Balance is 7798","level":"verbose"}
+{"meta":"green","level":"info","message":"starting to register Dapp..."}
+{"message":"dapp: {\n  \"name\": \"test-rAEUMEuMWdmb\",\n  \"link\": \"https://test-wwWNmfvVHVJl.zip\",\n  \"category\": 1,\n  \"description\": \"A hello world demo for asch dapp\",\n  \"tags\": \"asch,dapp,demo\",\n  \"icon\": \"http://o7dyh3w0x.bkt.clouddn.com/hello.png\",\n  \"type\": 0,\n  \"delegates\": [\n    \"db18d5799944030f76b6ce0879b1ca4b0c2c1cee51f53ce9b43f78259950c2fd\",\n    \"590e28d2964b0aa4d7c7b98faee4676d467606c6761f7f41f99c52bb4813b5e4\",\n    \"bfe511158d674c3a1e21111223a49770bee93611d998e88a5d2ea3145de2b68b\",\n    \"7bbf62931cf3c596591a580212631aff51d6bc0577c54769953caadb23f6ab00\",\n    \"452df9213aedb3b9fed6db3e2ea9f49d3db226e2dac01828bc3dcd73b7a953b4\"\n  ],\n  \"unlockDelegates\": 3\n}","level":"info"}
+{"meta":"green.inverse","level":"info","message":"DAPP registered, DappId: 5dc25daaa70807fbe7784cb3996013138bb2a0df7298d43f245d8b1c7f994caa"}
+{"meta":"blue.inverse","level":"info","message":"dappId \"5dc25daaa70807fbe7784cb3996013138bb2a0df7298d43f245d8b1c7f994caa\" successfully added to \"../asch/config.json\""}
+{"message":"wait for: 10000","level":"verbose"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-Server for restart"}
+{"meta":"inverse.blue","level":"warn","message":"sending SIGTERM signal to child process"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-server"}
+{"meta":"inverse.blue","level":"info","message":"asch-node exited with code: \"1\""}
+{"message":"asch-node terminated with code 1","level":"warn"}
+{"meta":"green.inverse","level":"info","message":"starting asch node"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"error in worklflow.js occured","level":"verbose"}
+{"message":"ERROR OCCURED","level":"error"}
+{"message":"throw in conductor.js line 62","level":"verbose"}
+{"message":"Request failed with status code 500","level":"error"}
+{"message":"Error: Request failed with status code 500\n    at createError (/usr/local/lib/node_modules/asch-redeploy/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/usr/local/lib/node_modules/asch-redeploy/node_modules/axios/lib/core/settle.js:18:12)\n    at IncomingMessage.handleStreamEnd (/usr/local/lib/node_modules/asch-redeploy/node_modules/axios/lib/adapters/http.js:201:11)\n    at emitNone (events.js:111:20)\n    at IncomingMessage.emit (events.js:208:7)\n    at endReadableNT (_stream_readable.js:1064:12)\n    at _combinedTickCallback (internal/process/next_tick.js:138:11)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","level":"error"}
+{"meta":"blue.inverse","level":"info","message":"SIGINT send"}
+{"message":"starting asch-redeploy...","level":"verbose"}
+{"message":"NODE_ENV: undefined","level":"verbose"}
+{"meta":"green.inverse","level":"info","message":"Check folder structure in /home/bass/testomgeving/javascript-racer"}
+{"meta":"green.underline","level":"info","message":"contract/ ✓"}
+{"meta":"green.underline","level":"info","message":"interface/ ✓"}
+{"meta":"green.underline","level":"info","message":"model/ ✓"}
+{"meta":"green.underline","level":"info","message":"public/ ✓"}
+{"meta":"green.underline","level":"info","message":"init.js file ✓"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"waiting for 7000ms","level":"verbose"}
+{"message":"starting to orchestrate...","level":"verbose"}
+{"meta":"white.inverse","level":"info","message":"files are watched in userDevDir: /home/bass/testomgeving/javascript-racer"}
+{"meta":"white.underline","level":"info","message":"interface/**.js"}
+{"meta":"white.underline","level":"info","message":"model/**.js"}
+{"meta":"white.underline","level":"info","message":"contract/**.js"}
+{"meta":"white.underline","level":"info","message":"init.js"}
+{"message":"register dapp...","level":"info"}
+{"message":"finished watching files...","level":"info"}
+{"meta":"green","level":"info","message":"check balance..."}
+{"message":"in sendMoney()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"someone manual strong movie roof episode eight spatial brown soldier soup motor\"","level":"verbose"}
+{"message":"in hasGenesisAccountEnoughMoney()","level":"verbose"}
+{"message":"has genesisAccount a balance greater 50000?","level":"verbose"}
+{"message":"in saveGenesisAccountData()","level":"verbose"}
+{"message":"in fetchAddressAndBalancewithSecret()","level":"verbose"}
+{"message":"get account information from \"sentence weasel match weather apple onion release keen lens deal fruit matrix\"","level":"verbose"}
+{"message":"in hasDappAccountEnoughMoney()","level":"verbose"}
+{"message":"has dappAccount a balance greater 1000?","level":"verbose"}
+{"message":"enough money on account. No transfer needed. Balance is 7698","level":"verbose"}
+{"meta":"green","level":"info","message":"starting to register Dapp..."}
+{"message":"dapp: {\n  \"name\": \"test-WfIovGZHTqtF\",\n  \"link\": \"https://test-GiydADLyqLqT.zip\",\n  \"category\": 1,\n  \"description\": \"A hello world demo for asch dapp\",\n  \"tags\": \"asch,dapp,demo\",\n  \"icon\": \"http://o7dyh3w0x.bkt.clouddn.com/hello.png\",\n  \"type\": 0,\n  \"delegates\": [\n    \"db18d5799944030f76b6ce0879b1ca4b0c2c1cee51f53ce9b43f78259950c2fd\",\n    \"590e28d2964b0aa4d7c7b98faee4676d467606c6761f7f41f99c52bb4813b5e4\",\n    \"bfe511158d674c3a1e21111223a49770bee93611d998e88a5d2ea3145de2b68b\",\n    \"7bbf62931cf3c596591a580212631aff51d6bc0577c54769953caadb23f6ab00\",\n    \"452df9213aedb3b9fed6db3e2ea9f49d3db226e2dac01828bc3dcd73b7a953b4\"\n  ],\n  \"unlockDelegates\": 3\n}","level":"info"}
+{"meta":"green.inverse","level":"info","message":"DAPP registered, DappId: 30c1dd5107d3553c3d9e95329d89ef4866dec16d213c4de87ed9e40ac8ea3b10"}
+{"meta":"blue.inverse","level":"info","message":"dappId \"30c1dd5107d3553c3d9e95329d89ef4866dec16d213c4de87ed9e40ac8ea3b10\" successfully added to \"../asch/config.json\""}
+{"message":"wait for: 10000","level":"verbose"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-Server for restart"}
+{"meta":"inverse.blue","level":"warn","message":"sending SIGTERM signal to child process"}
+{"meta":"green.inverse","level":"verbose","message":"stopping asch-server"}
+{"meta":"inverse.blue","level":"info","message":"asch-node exited with code: \"1\""}
+{"message":"asch-node terminated with code 1","level":"warn"}
+{"meta":"green.inverse","level":"info","message":"starting asch node"}
+{"meta":"inverse","level":"info","message":"starting asch-node in \"/home/bass/testomgeving/asch\" on port 4096"}
+{"message":"DAPP refuel with 500 XAS, transactionId: \"f384871ae6f50c24ed857efd7fe49561b2dbb89046c1b0a1bb090969ebab6b85\"","level":"info"}
+{"message":"sleep for 3000ms","level":"verbose"}
+{"message":"waiting for file changes...","level":"info"}
